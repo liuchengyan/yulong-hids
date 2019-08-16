@@ -1,11 +1,8 @@
 
 <footer class="app-footer"> 
-
   <div class="row">
     <div class="col-xs-12">
       <div class="footer-copyright">
-        Copyright © 2017 Powered by <a href="https://github.com/ysrc/">YSRC</a> & Designed and built by <span class="highlight">wolf</span> & <span class="highlight">nearg1e</span>
-        <span class="pull-right"><<< .version >>></span>
       </div>
     </div>
   </div>
